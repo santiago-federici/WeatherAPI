@@ -7,7 +7,6 @@ export function useWeather({search}) {
 
     const getWeather = async () => {
         const newWeather = await findWeather({search})
-        console.log(newWeather)
         setWeather(newWeather)
     }
 

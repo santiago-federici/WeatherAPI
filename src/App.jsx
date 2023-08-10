@@ -9,10 +9,7 @@ function App() {
 
   const handleSubmit = (e) => {
     e.preventDefault()
-
     getWeather()
-
-    console.log(weather)
   }
 
   const handleChange = (e) => {

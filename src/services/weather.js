@@ -17,7 +17,8 @@ export const findWeather = async ({search}) => {
         const {condition, is_day, temp_c} = current
         const {text, icon} = condition
 
-        console.log(data)
+
+
 
         return {
             conditionText: text,

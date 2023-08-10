@@ -3,6 +3,7 @@ main{
     display: grid;
     place-content: center;
     gap: 4rem;
+    margin: 2rem;
 }
 
 .weather-form{
