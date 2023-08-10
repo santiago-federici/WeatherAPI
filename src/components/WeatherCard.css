@@ -1,0 +1,43 @@
+.card{
+    border-radius: .5rem;
+    width: 450px;
+    height: 650px;
+    border: 1px solid green;
+}
+
+.card-country{
+    width: 100%;
+    margin-top: 2rem;
+    padding: .5rem 1rem;
+    text-align: center;
+}
+
+.card-info{
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 1px solid red;
+    /* need to find a height */
+}
+
+.info-temp{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.temp-degrees{
+    font-size: var(--fs-800);
+}
+
+.card-localtime{
+    align-self: center;
+}
+.day{
+    background: rgba(245, 245, 206, 0.151);
+}
+
+.night{
+    background: rgba(0, 0, 0, 0.151);
+}
