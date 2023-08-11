@@ -8,17 +8,8 @@
     display: flex;
     flex-direction: column;
     gap: 4rem;
-    /* background-image: url('../assets/night-sunny-bg.jpg'); */
-    /* background-size: cover; */
-    /* background-position: center; */
     overflow: hidden;
     box-shadow: 10px 10px rgba(0, 0, 0, 0.514);
-}
-
-.card img{
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
 }
 
 .card-country{
@@ -50,6 +41,10 @@
 .info-temp aside{
     display: grid;
     place-items: center;
+}
+
+.temp-img{
+    width: 100px;
 }
 
 

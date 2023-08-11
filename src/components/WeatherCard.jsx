@@ -6,9 +6,6 @@ export function WeatherCard({weather}) {
 
     const dayClassName = weather && (weather.isDay == 1 ? daySunnyBg : nightSunnyBg)
 
-    // AITUBO: A single not realistic mountain in the middle, with lots of rain, with a blueish background.
-    // Handle error: No city found
-
     return(
 
         weather && (
