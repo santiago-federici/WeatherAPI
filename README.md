@@ -74,3 +74,29 @@ npm run dev
 ```
 
 6. Open [**http://localhost:5371**](http://localhost:5371/) in your browser to see the result 🚀
+
+### 🤝 Contributing
+
+<a href="https://github.com/santiago-federici/ReactJS-NotionClone/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=santiago-federici/ReactJS-NotionClone" />
+</a>
+
+<div id="-commands"></div>
+
+## 🧞 Commands
+
+|     | Command          | Action                                        |
+| :-- | :--------------- | :-------------------------------------------- |
+| ⚙️  | `dev`            | Starts local dev server at `localhost:5173`.  |
+| ⚙️  | `build`          | Build your production site to `./dist/`.      |
+
+
+<div id="-social-media"></div>
+
+## 📲 My Social Media
+
+[![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-federici/)
+[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santiago-federici)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Santi_Federici)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santi_federici)
+
